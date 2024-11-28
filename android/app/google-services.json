@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209842192828",
+    "project_id": "syncella-otp-verificatio-b3c6d",
+    "storage_bucket": "syncella-otp-verificatio-b3c6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209842192828:android:58a2c0e2064f35f8746bb9",
+        "android_client_info": {
+          "package_name": "com.safar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGai0oDzPAP98M3JCs_LEx2rsdkfvorPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
